@@ -2,14 +2,14 @@
 <rss version="2.0">
 <channel>
   <title>Web Completamente increible del Gato con Botas</title>
-  <link>https://iruko2004.github.io/WebCSS1/</link>
+  <link>https://iruko2004.github.io/WebCSS2/</link>
   <description>Hola, esta es una web creada por y para alabar la figura de El Gato con Botas. Posiblemente el personaje más importante y necesario en este mundo.</description>
 <!-- La parte fija opcional -->
   <language>es-ES</language>
   <image>
     <title>Wiki Gato con Botas.</title>
-    <url>https://iruko2004.github.io/WebCSS1/Imagenes/gatoBotas.jpeg</url>
-    <link>https://iruko2004.github.io/WebCSS1/</link>
+    <url>https://iruko2004.github.io/WebCSS2/Imagenes/gatoBotas.jpeg</url>
+    <link>https://iruko2004.github.io/WebCSS2/</link>
     <width>90</width>
     <height>36</height>
   </image>
@@ -19,14 +19,14 @@
   <item>
   <title>PERSONAJES DE EL GATO CON BOTAS.</title>
   <link>
-  https://iruko2004.github.io/WebCSS1/#item2
+  https://iruko2004.github.io/WebCSS2/#item2
   </link>
   <description>Personajes de el Gato con Botas</description>
   </item>
   <item>
   <title>Formulario de el Gato con botas.</title>
   <link>
-  https://iruko2004.github.io/WebCSS1/#item4
+  https://iruko2004.github.io/WebCSS2/#item4
   </link>
   <description>Formulario de el Gato con Botas.</description>
   </item>
